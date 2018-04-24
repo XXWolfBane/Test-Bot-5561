@@ -1,0 +1,7 @@
+{
+  "name": "Testbot",
+  "version": "1.0.0",
+  "dependencies": {
+    "discord.js": "^1l.3.1"
+  }
+}
