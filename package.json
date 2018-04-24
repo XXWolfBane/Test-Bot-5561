@@ -1,0 +1,7 @@
+{
+  "name": "Himiachi Test",
+  "version": "1.0.0",
+  "dependencies": {
+    "discord.js": "^11.3.1"
+  }
+}
